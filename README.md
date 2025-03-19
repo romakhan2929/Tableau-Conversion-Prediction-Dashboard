@@ -1,7 +1,7 @@
 Dataset Domain: Digital Marketing
 Dataset Details: Extracted from Kaggle.com  
 Dataset: Dating App 8000 rows and 20 columns  
-Dashboard/Project Title:   Conversion Rate Analysis 
+Dashboard/Project Title:   Conversion Rate Prediction
 Problem Statement: Develop a dashboard to identify conversion rate.
 Charts Used: Bar chart,Pie chart,packed bubble chart, scatter plot
 Insights:
